@@ -5,7 +5,7 @@ This is the Python implementation of the analytical results and agent-based mode
 ## Guide of Usage
 First, to run our codes, the required packages include NumPy, SciPy, Random and Matplotlib, pandas, seaborn are required for plotting. All of the experiments are implemented on JuPyter Notebook version 6.1.4. with Anaconda Navigator 1.10.0 and Python 3.8.5.
 
-The role of the Python files are:
+The roles of the Python files are:
 * "**Learning DS Model from ICLR Datasets.ipynb**" uses the review datasets of ICLR 2020 and ICLR 2021 to estimate the prior of the paper quality of different categories and the confusion matrix;
 * "**Continuous.ipynb**", "**Binary.ipynb**" and "**Categorical.ipynb**" contain the codes of the analysis and ABM experiments of the continuous mode, binary model and categorical model, respectively;
 
